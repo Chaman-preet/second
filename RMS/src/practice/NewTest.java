@@ -222,7 +222,7 @@ public class NewTest {
 	   {
 		   Region_NR.click();
 		   Region_NR_Value.get(1).click();
-		   Thread.sleep(1000);
+		   Thread.sleep(2000);
 	   }
 	   
 	   public void Coverage_NR() throws InterruptedException
